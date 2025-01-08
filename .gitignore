@@ -1,2 +1,5 @@
 .gitattributes
 user_actions.db
+titles.akas.tsv
+title.ratings.tsv
+title.basics.tsv
